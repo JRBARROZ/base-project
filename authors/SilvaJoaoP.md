@@ -1,8 +1,8 @@
 ### Sobre Mim 
-// Nome / Idade
+
+Nome: João Pedro da Silva
+Idade: 22 anos
 
 ### Interesse em qual área?
 
-// Back?
-// Front?
-// Full?
+Programação BackEnd/FrontEnd
