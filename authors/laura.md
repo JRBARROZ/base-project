@@ -1,8 +1,9 @@
 ### Sobre Mim 
-// laura  / 20
+nome: Laura 
+ idade: 20
 
 ### Interesse em qual área?
 
-// Back?
-// Front?
-// Full? Sim
+ Back?
+ Front?
+ Full? Sim
