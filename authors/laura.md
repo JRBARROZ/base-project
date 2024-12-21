@@ -1,6 +1,6 @@
 ### Sobre Mim 
 nome: Laura 
- idade: 20
+idade: 20
 
 ### Interesse em qual área?
 
