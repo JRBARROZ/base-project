@@ -1,11 +1,11 @@
 ### Sobre Mim 
-// Raffael / igarassu /
+Raffael / igarassu /
 
 ### Interesse em qual área?
 
-// Back?
-    gosto mais
-// Front?
+Back?
     gosto
-// Full?
+Front?
+    gosto
+Full?
     gosto
