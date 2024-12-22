@@ -1,0 +1,35 @@
+[33mcommit 1fddf2c75845fe7da2acede02d53dd0321dec711[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jrbarroz <jrbarroz04@gmail.com>
+Date:   Sat Dec 21 08:16:36 2024 -0300
+
+    fix: resolving readme
+
+[33mcommit d30de19b284aaf5a8f7efccd282313cc45d75504[m
+Author: jrbarroz <jrbarroz04@gmail.com>
+Date:   Sat Dec 21 08:11:37 2024 -0300
+
+    fix: resolving pr template
+
+[33mcommit 67c598a251e9f098b76dbf69a4b558cfd98ca12f[m
+Author: jrbarroz <jrbarroz04@gmail.com>
+Date:   Sat Dec 21 07:58:40 2024 -0300
+
+    fix: resolving authors
+
+[33mcommit 1dc9bd34f8ec71a457fc302ed31171f0c2d83c56[m
+Author: jrbarroz <jrbarroz04@gmail.com>
+Date:   Sat Dec 21 07:57:58 2024 -0300
+
+    feat: resolving repo challenge
+
+[33mcommit 32e4daa0e37da6628d297e1976e70b06332eb1c6[m
+Author: jrbarroz <jrbarroz04@gmail.com>
+Date:   Sat Dec 21 07:37:52 2024 -0300
+
+    feat: initializing project
+
+[33mcommit 1cdb91d10874764784f28a1d981c40f1e0c35668[m
+Author: Jhonatas Rodrigues de Barros <40250320+JRBARROZ@users.noreply.github.com>
+Date:   Sat Dec 21 07:13:04 2024 -0300
+
+    Initial commit
